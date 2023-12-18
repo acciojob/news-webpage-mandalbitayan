@@ -2,7 +2,7 @@
    body {
         background-color: #f5f5f5;
       }
-      .header {
+      .header1 {
         background-color: #011e29;
         color: white;
         display: flex;
@@ -35,7 +35,7 @@
         height: 100px;
         padding: 5px;
       }
-      .main {
+      .header {
         display: flex;
         align-items: flex-start;
         justify-content: space-around;
