@@ -18,7 +18,7 @@
         border-radius: 10px;
       }
       .article {
-        width: 160px;
+        width: 300px;
         background-color: white;
         padding: 25px;
         border-radius: 10px;
@@ -39,4 +39,6 @@
         display: flex;
         align-items: flex-start;
         justify-content: space-around;
+		  text-align: center;
+		  padding: 8px;
       }
